@@ -1,4 +1,4 @@
-![Galactic](https://github.com/user-attachments/assets/dfe28e29-75cd-45b1-ba70-7abc4953df65)
+![Intergalactic](https://github.com/user-attachments/assets/e23919be-72ec-4e0b-95a2-1e5274007257)
 
 Galactic physics is the branch of astrophysics that focuses on the structure, dynamics, formation, and evolution of galaxies. It encompasses the study of the complex interplay between stars, gas, dust, dark matter, and central supermassive black holes that collectively shape a galaxy’s life cycle. Within galactic physics, researchers explore the morphology of galaxies—spirals, ellipticals, and irregulars—along with the processes that drive their transformation over cosmic time. These include mergers, interactions with the intergalactic medium, star formation, supernova feedback, and active galactic nuclei (AGN) activity. Galactic physics also investigates the kinematics and mass distributions within galaxies, especially in connection with the dark matter halos that envelop them. These dark components, invisible yet influential, dominate the gravitational landscape and provide the scaffolding for galaxy formation in the standard cosmological model (ΛCDM). Moreover, the field delves into the evolution of galactic components such as stellar populations, metallicity gradients, and magnetic fields, providing a detailed narrative of how galaxies assemble and transform across billions of years.
 
@@ -12,7 +12,7 @@ Relativistic rockets are an advanced propulsion concept based on conventional ph
 
 #
 
-![Intergalactic](https://github.com/user-attachments/assets/e23919be-72ec-4e0b-95a2-1e5274007257)
+![Aliens](https://github.com/user-attachments/assets/1e3fd102-398b-42f2-916c-6f7e9f06a39c)
 
 [Faster-Than-Light](https://chatgpt.com/g/g-67653d3b9e4c8191b70ec7235f9d0962-faster-than-light) is a custom GPT that specializes in exploring and analyzing theoretical and speculative concepts related to superluminal (faster-than-light) travel. It is designed to deeply engage with topics at the intersection of advanced physics and imaginative extrapolation, offering users a comprehensive understanding of mechanisms that might enable or simulate travel exceeding the speed of light. The GPT synthesizes knowledge from general relativity, quantum mechanics, spacetime geometry, and cosmology, while also drawing on frontier and fringe physics, to evaluate constructs such as warp drives, wormholes, tachyons, and quantum tunneling. Whether dissecting the Alcubierre metric, examining the Casimir effect’s relevance to exotic matter, or discussing violations of energy conditions, this GPT delivers rigorous scientific insights tempered with an openness to theoretical innovation.
 
