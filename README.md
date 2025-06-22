@@ -24,6 +24,12 @@ Beyond purely scientific analysis, the Faster-Than-Light GPT excels at bridging 
 
 #
 
+![Stars](https://github.com/user-attachments/assets/4d0eb9e1-526a-48b8-9970-2eb931c916f8)
+
+[Galactic Colony](https://chatgpt.com/g/g-685786ba235c81918ef3944698a8a5c8-galactic-colony) is a custom GPT designed to explore and guide users through the complex and fascinating theoretical concept of galactic colonization—the idea of humanity expanding its presence across distant galaxies by establishing permanent, self-sustaining settlements on exoplanets and moons. It incorporates knowledge of futuristic technologies such as advanced propulsion systems for interstellar travel, artificial gravity solutions for long-duration spaceflight, terraforming techniques to modify alien environments, closed-loop ecological systems for sustainable living, and the integration of robotics, AI, and 3D printing for autonomous construction and maintenance of extraterrestrial habitats. Additionally, it delves into the role of genetic engineering in adapting humans to the extreme conditions of space and alien worlds. The GPT provides information, speculation, and planning strategies step-by-step using a multiple-choice approach, helping users conceptualize and build coherent, scientifically grounded visions of future human civilizations that might one day thrive among the stars.
+
+#
+
 [Earth 2](https://github.com/sourceduty/Earth_2)
 <br>
 [Mars](https://github.com/sourceduty/Mars)
