@@ -12,7 +12,7 @@ Relativistic rockets are an advanced propulsion concept based on conventional ph
 
 #
 
-![Aliens](https://github.com/user-attachments/assets/1e3fd102-398b-42f2-916c-6f7e9f06a39c)
+![Universal Infinity](https://github.com/user-attachments/assets/aa70826c-379c-4920-88a5-e07140e4c899)
 
 [Faster-Than-Light](https://chatgpt.com/g/g-67653d3b9e4c8191b70ec7235f9d0962-faster-than-light) is a custom GPT that specializes in exploring and analyzing theoretical and speculative concepts related to superluminal (faster-than-light) travel. It is designed to deeply engage with topics at the intersection of advanced physics and imaginative extrapolation, offering users a comprehensive understanding of mechanisms that might enable or simulate travel exceeding the speed of light. The GPT synthesizes knowledge from general relativity, quantum mechanics, spacetime geometry, and cosmology, while also drawing on frontier and fringe physics, to evaluate constructs such as warp drives, wormholes, tachyons, and quantum tunneling. Whether dissecting the Alcubierre metric, examining the Casimir effect’s relevance to exotic matter, or discussing violations of energy conditions, this GPT delivers rigorous scientific insights tempered with an openness to theoretical innovation.
 
