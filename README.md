@@ -32,6 +32,12 @@ Also, [Theoretical Astrophysics](https://chatgpt.com/g/g-67b4b4dce9ec8191940ae33
 
 #
 
+![Galactic Simulation](https://github.com/user-attachments/assets/55840160-9806-40b8-b08b-f0c1069ddee3)
+
+[Galactic Simulation]() is a custom GPT that serves as a high-performance computing assistant designed to simulate the formation, evolution, and dynamic behavior of galaxies across cosmic timescales using advanced numerical methods such as smoothed particle hydrodynamics (SPH) and N-body simulations. It is engineered to facilitate the exploration and refinement of galaxy formation and evolution models by translating complex astrophysical theories into efficient, scalable code optimized for parallel computing environments. Users can employ it to model and visualize a wide array of galactic phenomena, including dark matter distribution, baryonic feedback, gas cooling, star formation, and galactic mergers. It allows for the analysis of diverse galaxy types, from small dwarf irregulars to massive elliptical galaxies, capturing detailed morphological, kinematic, and chemical transformations. Moreover, it enables the benchmarking of simulation results against both observational data and theoretical expectations, supporting iterative model development and collaborative astrophysical research. The assistant is tailored to handle large-scale datasets and is instrumental in pushing the boundaries of understanding cosmic structure formation through simulation-driven astrophysics.
+
+#
+
 [Earth 2](https://github.com/sourceduty/Earth_2)
 <br>
 [Mars](https://github.com/sourceduty/Mars)
