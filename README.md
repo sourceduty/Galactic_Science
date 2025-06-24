@@ -61,3 +61,5 @@ Also, [Big Bang Simulator](https://chatgpt.com/g/g-674d747f721081919ecb6c4d43d4b
 [Assisted ISS](https://chatgpt.com/g/g-67aff86c79a88191b6d03e496c9e3080-assisted-iss)
 <br>
 [Math Tools](https://github.com/sourceduty/Math_Tools)
+<br>
+[Spaceflight Propulsion](https://chatgpt.com/g/g-685b01092acc81919ccba5c04ace7107-spaceflight-propulsion)
