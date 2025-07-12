@@ -48,6 +48,12 @@ In the realm of space exploration, particularly intergalactic propulsion, a [qua
 
 #
 
+![FTL Engine](https://github.com/user-attachments/assets/ab184600-161b-4703-a592-e3c89b56756d)
+
+The Xenodynamic Engine is a theoretical propulsion system that harnesses the power of exotic matter, specifically negative mass particles or "dark energy", to achieve faster-than-light (FTL) travel. Unlike conventional engines which rely on burning fuel for thrust, the Xenodynamic Engine operates by manipulating the fabric of spacetime itself through controlled interactions with dark energy fields. The concept behind this engine is based on Einstein's theory of general relativity and its implications regarding negative mass particles. These hypothetical entities are thought to possess a gravitational "anti-mass" property that repels other matter rather than attracting it, as per Newton's law of universal gravitation. By confining an isolated region containing both positive and negative masses in close proximity within the engine core, their mutual repulsion would generate immense amounts of energy which could then be channeled into accelerating spacetime itself around a spacecraft or spaceship. This distortion of space-time allows for faster-than-light travel by essentially "shortcutting" vast distances through wormholes that are opened up between two points in space separated by time and distance. The Xenodynamic Engine would thus enable interstellar voyages to distant star systems within the lifetime of its crew, rather than taking hundreds or thousands of years as with conventional propulsion methods alone.
+
+#
+
 [Earth 2](https://github.com/sourceduty/Earth_2)
 <br>
 [Mars](https://github.com/sourceduty/Mars)
